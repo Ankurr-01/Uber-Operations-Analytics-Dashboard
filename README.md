@@ -1,4 +1,4 @@
-# 🚕 Uber Rides Analysis | End-to-End Data Analytics Project
+# 🚕 Uber Operations Analysis | End-to-End Data Analytics Project
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
