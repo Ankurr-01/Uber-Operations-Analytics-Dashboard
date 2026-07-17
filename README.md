@@ -34,7 +34,7 @@ Uber-Ride-Operations-Analytics/
 ├── data_questions                   # Business questions
 ├── uber_rides_analysis.sql          # SQL queries for business analysis
 ├── DASHBOARD_REPORT.pbix            # Interactive Power BI dashboard
-├── 05_dashboard_visualizations         # Dashboard visualizations
+├── 05_dashboard_visualizations      # Dashboard visualizations
 ├── DASHBOARD_REPORT.pdf             # Dashboard preview
 │
 ├── README.md
